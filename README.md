@@ -1,4 +1,4 @@
-# Supervised-Learning-Exploratory-Project
+# Supervised-Learning-Project
 - Project adapted from "Deep Learning A-Z" and "Python for Data Science and Machine Learning Bootcamp"
 - Applied Tensorflow and Keras on Artificial, Convolutional, and Recurrent Neural Networks
 - Developed a Google Stock Price Predictor using RNNs and achieved 80% accuracy
